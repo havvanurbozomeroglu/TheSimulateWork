@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1590171803 source:c:\users\hnb\desktop\homework\ödev denemesi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+
+1590173088 source:c:\users\hnb\desktop\the simulate homework\ödev denemesi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+
+1590173088 source:c:\users\hnb\desktop\homework\the simulate homework\ödev denemesi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+	<cmath>
+
